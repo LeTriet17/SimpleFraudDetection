@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+scikit-learn
+category_encoders
+joblib
+xgboost
